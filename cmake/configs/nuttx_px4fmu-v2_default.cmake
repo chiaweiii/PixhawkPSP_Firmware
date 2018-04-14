@@ -44,9 +44,9 @@ set(config_module_list
 	#drivers/oreoled
 	drivers/gimbal
 	drivers/pwm_input
-	drivers/camera_trigger
+	#drivers/camera_trigger
 	drivers/bst
-	drivers/snapdragon_rc_pwm
+	#drivers/snapdragon_rc_pwm
 	drivers/lis3mdl
 
 	#
